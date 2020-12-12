@@ -1,11 +1,11 @@
 # Your code goes here!
-class Dog 
+class Dog
 
 def name=
   @name = name
 end
 
-def name 
+def name
   @name
 end
-end 
+end
